@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamic-family-tree/static/css/main.712d384f.css",
+    "main.js": "/dynamic-family-tree/static/js/main.0813901c.js",
+    "index.html": "/dynamic-family-tree/index.html",
+    "main.712d384f.css.map": "/dynamic-family-tree/static/css/main.712d384f.css.map",
+    "main.0813901c.js.map": "/dynamic-family-tree/static/js/main.0813901c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712d384f.css",
+    "static/js/main.0813901c.js"
+  ]
+}
